@@ -1,0 +1,40 @@
+
+body{
+    background-color: aqua;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.cuerpo{
+    padding: 15px;
+    display: flex;
+    margin: 0 auto;
+    width: 80%;
+}
+
+.cuadros1{
+    width: 50%;
+    line-height: 2.5em;
+}
+
+.imagensexy{
+    margin-left: 20px;
+    height: auto;
+    text-align: center;
+    width: 30%;
+}
+
+.campus{
+    width: 100%;
+    border-color: black;
+    font-size: larger;
+}
+
+.botondescargar{
+    background-color: darkmagenta;
+    text-align: center;
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+}
+
+
